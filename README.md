@@ -191,8 +191,3 @@ MIT
 <a href="https://github.com/Gentleman-Programming/engram/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Gentleman-Programming/engram&max=100" />
 </a>
----
-
-<a href="https://github.com/Gentleman-Programming/gentle-ai">
-  <img width="220" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle-AI" />
-</a>
